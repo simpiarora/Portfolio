@@ -3,6 +3,7 @@ Simpi Arora's portfolio depicting her work experience, projects, education backg
 
 
 Key Takeways: 
+
 1. 
 2. Setting up Sharing rule for Portfolio Guest user profile.
 
